@@ -1,0 +1,3 @@
+/mnt/mohammad/ffi_practice/cpp_program/build/CMakeFiles/main.exe.dir
+/mnt/mohammad/ffi_practice/cpp_program/build/CMakeFiles/edit_cache.dir
+/mnt/mohammad/ffi_practice/cpp_program/build/CMakeFiles/rebuild_cache.dir

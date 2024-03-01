@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/main.exe.dir/source/main.cpp.o -o main.exe  /mnt/mohammad/ffi_practice/rust_lib/target/release/librust_lib.a 
